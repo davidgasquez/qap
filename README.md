@@ -1,6 +1,6 @@
 Quadratic Assignment Problem
 ============================
-Approach to the Quadratic Assignment Problem in C++ using memetic algorithms and tabu search. 
+Approach to the *Quadratic Assignment Problem* in **C++** using memetic algorithms and tabu search.
 
 Instances obtained from [QAPLIB](http://anjos.mgi.polymtl.ca/qaplib/inst.html).
 
