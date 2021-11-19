@@ -75,7 +75,7 @@ void Memetic::execute()
             newPopulation_.push_back(oldPopulation_[i - 1]);
         }
 
-        //Sort the final population and asign it to oldPopulation
+        // Sort the final population and asign it to oldPopulation
         sort (newPopulation_.begin(), newPopulation_.end());
         oldPopulation_ = newPopulation_;
 
